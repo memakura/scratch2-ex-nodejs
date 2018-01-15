@@ -9,6 +9,11 @@ Node.js で新規に Scratch 2.0 オフライン版の拡張を作れます．
 ## Executable
 
 ひとまず各プラットフォームで実行可能なバイナリを置きます．Node.js の zeit/pkg で作成しました．
+プラットフォームのバージョンはデフォルトです．
+
+- **Windows** : index.exe
+- **Mac OS** : index-macos
+- **Linux** : index-linux
 
 Windows 以外は未テストです．
 
